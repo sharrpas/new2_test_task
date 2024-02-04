@@ -1,4 +1,4 @@
-<div class=" relative flex items-center justify-center w-[50vw]">
+<div class=" relative flex items-satrt justify-center top-[400px] h-[400px] w-[50vw]">
     {{--    circle--}}
     <div class="absolute right-0 w-[30vw] -z-[1]  bottom-[0px]">
         <img src="{{asset('storage/images/circle.png')}}" width="100%" height="100%" alt=""/>
